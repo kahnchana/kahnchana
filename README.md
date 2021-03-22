@@ -18,4 +18,4 @@
 - 🌱 I’m currently learning about PGMs and Transformers
 - 📫 How to reach me: kanchana.ranasinghe@mbzuai.ac.ae
 - 💬 Pronouns: he/him/his
-- 👯 Fun facts: I love dancing and reading about psychology & human history 
+- 👯 Fun facts: I love dancing and reading about psychology & history 
