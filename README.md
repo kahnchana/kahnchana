@@ -14,8 +14,8 @@
 
 -->
 
-🔭 I’m working on image classification and representation learning
-🌱 I’m currently learning about PGMs and Transformers
-📫 How to reach me: kanchana.ranasinghe@mbzuai.ac.ae
-💬 Pronouns: he/him/his
-👯 Fun fact: I love dancing
+- 🔭 I’m working on image classification and representation learning
+- 🌱 I’m currently learning about PGMs and Transformers
+- 📫 How to reach me: kanchana.ranasinghe@mbzuai.ac.ae
+- 💬 Pronouns: he/him/his
+- 👯 Fun fact: I love dancing
