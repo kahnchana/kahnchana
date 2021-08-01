@@ -16,6 +16,6 @@
 
 - 🔭 I’m working on image classification and representation learning
 - 🌱 I’m currently learning about PGMs and Transformers
-- 📫 How to reach me: kanchana.ranasinghe@mbzuai.ac.ae
+- 📫 How to reach me: kranasinghe@cs.stonybrook
 - 💬 Pronouns: he/him/his
 - 👯 Fun facts: I love dancing and reading about psychology & history 
