@@ -14,7 +14,7 @@
 
 -->
 
-- 🔭 I’m working on image classification and representation learning
+- 🔭 I’m working on video analysis and representation learning
 - 🌱 I’m currently learning about PGMs and Transformers
 - 📫 How to reach me: kranasinghe@cs.stonybrook
 - 💬 Pronouns: he/him/his
