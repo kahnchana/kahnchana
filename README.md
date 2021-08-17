@@ -16,6 +16,6 @@
 
 - 🔭 I’m working on video analysis and representation learning
 - 🌱 I’m currently learning about PGMs and Transformers
-- 📫 How to reach me: kranasinghe@cs.stonybrook
+- 📫 How to reach me: kranasinghe@cs.stonybrook.edu
 - 💬 Pronouns: he/him/his
 - 👯 Fun facts: I love dancing and reading about psychology & history 
