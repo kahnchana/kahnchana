@@ -16,5 +16,5 @@
 
 - 🔭 I’m working on video analysis and representation learning
 - 📫 How to reach me: kranasinghe@cs.stonybrook.edu
-- 💬 Pronouns: he/him/his
+- 🌱 I’m currently learning about cognitive sciences
 - 👯 Fun facts: I love dancing and reading about psychology & history 
